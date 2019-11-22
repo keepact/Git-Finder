@@ -13,7 +13,7 @@ Application developed during a beginners course of Node, React and React-Native.
  
 ## What is this application about?
 
-It is a App to hunt repositories with Github API. There are 2 screens: 
+It is a App to hunt repositories with Github API. There are 3 screens: 
 
 <strong>1</strong> - List of your favorites repos 
 
