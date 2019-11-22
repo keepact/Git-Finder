@@ -1,0 +1,19 @@
+/backend/node_modules
+/frontend/web/node_modules
+/frontend/mobile/node_modules
+
+# Android/IntelliJ
+#
+/frontend/mobile/build
+/frontend/mobile/android/app/build
+/frontend/mobile/.idea
+/frontend/mobile/.gradle
+/frontend/mobile/local.properties
+/frontend/mobile/*.iml
+/frontend/mobile/ios/Pods/
+/frontend/mobile/*.jsbundle
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_store*
